@@ -47,10 +47,12 @@
   <a href="https://github.com/ShawwTea1403" align="right">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShawwTea1403&theme=radical&border=7F3FBF&background=0D1117" alt="ShawwTea1403's GitHub streak"/>
   </a>
-  <a href="https://github.com/ShawwTea1403" align="center">
+ <p align="center">
+  <a href="https://github.com/ShawwTea1403">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShawwTea1403&theme=radical" alt="ShawwTea1403's's GitHub Contribution"/>
   <br/>
  </a>
+ </p>
 
 
 <!-- ![Gabi'sGraph](https://github-readme-activity-graph.cyclic.app/graph?username=ShawwTea1403&custom_title=Gabi%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) !-->
