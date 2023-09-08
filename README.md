@@ -43,14 +43,18 @@
 <hr/>
 <br/>
 
-  <a href="https://github.com/ShawwTea1403" align="left"><img alt="ShawwTea1403's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ShawwTea1403&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ShawwTea1403" align="right">
+  <p align="center">
+  <a href="https://github.com/ShawwTea1403" ><img alt="ShawwTea1403's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ShawwTea1403&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  </p>
+  <p align="center">
+  <a href="https://github.com/ShawwTea1403" >
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShawwTea1403&theme=radical&border=7F3FBF&background=0D1117" alt="ShawwTea1403's GitHub streak"/>
   </a>
+  </p>
  <p align="center">
   <a href="https://github.com/ShawwTea1403">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShawwTea1403&theme=radical" alt="ShawwTea1403's's GitHub Contribution"/>
-  <br/>
  </a>
  </p>
 
