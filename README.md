@@ -9,10 +9,10 @@
 
 
 <!-- About Section -->
- <h2 align="center"><b><a target="_blank" href="#">   「 people who think about thinking when thinking  」</a></b></h2>
+ <h2 align="center"><b><a target="_blank" href="#"> “Il vaut mieux ne pas réfléchir du tout que de ne pas réfléchir assez.” </a></b></h2>
  
 <p>
-<p align="center"><img src="hacker2.gif"/></p>
+<p align="center"><img src="think.gif"/></p>
 </p>
 
 <br/>
